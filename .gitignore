@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+node_modules/
+dist/
+backend/app/data/gtzan/
+backend/app/data/deam/
+backend/app/ml/training/*.npz
+backend/app/ml/weights/*.keras
+backend/app/ml/weights/*.h5
+.DS_Store
+Thumbs.db
